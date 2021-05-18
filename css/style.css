@@ -1,0 +1,128 @@
+*{
+    margin: 0%;
+}
+.logo{
+    background-color: darkgreen;
+    width: 30%;
+    height: 80px;
+    float: left;
+}
+.logo h1{
+    color: black;
+    text-align: center;
+}
+.mobile_email{
+    background-color: lightgreen;
+    width: 70%;
+    height: 80px;
+    float: right;
+}
+.mobile_email h1{
+    color: black;
+    text-align: center;
+}
+.header{
+    overflow: hidden;
+}
+.menu{
+    background-color: blue;
+    height: 80px;
+}
+.menu h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.left{
+    width: 33.33%;
+    height: 1300px;
+    float: left;
+}
+.l_top{
+    background-color: mediumvioletred;
+    height: 20%;
+}
+.l_top h1{
+    color: black;
+    text-align: center;
+    padding: 60px;
+}
+.l_mid{
+    background-color: darkmagenta;
+    height: 30%;
+}
+.l_mid h1{
+    text-align: center;
+    padding: 60px;
+}
+.l_bottom{
+    background-color: mediumpurple;
+    height: 50%;
+}
+.l_bottom h1{
+    text-align: center;
+    padding: 60px;
+}
+.center{
+    width: 33.33%;
+    height: 1300px;
+    float: left;
+}
+.c_top{
+    background-color: mistyrose;
+    height: 40%;
+}
+.c_top h1{
+    text-align: center;
+    padding: 60px;
+}
+.c_bottom{
+    background-color: palegoldenrod;
+    height: 60%;
+}
+.c_bottom h1{
+    text-align: center;
+    padding: 120px;
+}
+.right{
+    width: 33.33%;
+    height: 1300px;
+    float: right;
+}
+.r_top{
+    background-color: black;
+    height: 40%;
+}
+.r_top h1{
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.r_mid{
+    background-color: rgb(119, 16, 16);
+    height: 30%;
+}
+.r_mid h1{
+    color: black;
+    padding: 30px;
+}
+.r_bottom{
+    background-color: coral;
+    height: 30%;
+}
+.r_bottom h1{
+    color: black;
+    padding: 30px;
+}
+.content{
+    overflow: hidden;
+}
+.footer{
+    background-color: slategray;
+    height: 100px;
+}
+.footer h1{
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
